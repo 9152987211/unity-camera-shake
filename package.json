@@ -1,0 +1,13 @@
+{
+  "name": "com.915.screenshake",
+  "version": "1.0.0",
+  "displayName": "ScreenShake",
+  "description": "A reusable screen shake component for Unity.",
+  "unity": "2020.3",
+  "keywords": [ "screen shake", "camera", "effect" ],
+  "author": {
+    "name": "915",
+    "email": "o9152987211@gmail.com",
+    "url": "https://github.com/9152987211"
+  }
+}
