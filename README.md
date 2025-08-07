@@ -3,10 +3,10 @@ An easy to use and lightweight screen shake system for Unity.
 Supports both <ins>rotation</ins> and <ins>position</ins> shaking with customizable strength, frequency and duration.
 
 ## Installation
-Simply download the *ScreenShake.unitypackage* file and double click it to import Screen Shake into your project.
+Simply download the **ScreenShake.unitypackage** file and double click it to import Screen Shake into your project.
 
 ## Usage
-1. Add the *ScreenShake* script to the Camera or GameObject you want to shake.
+1. Add the **ScreenShake** script to the Camera or GameObject you want to shake.
 2. To trigger the screen shake, use the following code with your own parameters:
 
 ```
